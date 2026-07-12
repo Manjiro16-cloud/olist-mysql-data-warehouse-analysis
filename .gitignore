@@ -1,0 +1,18 @@
+# Raw and temporary data
+data/
+load_tmp/
+*.csv
+*.zip
+
+# MySQL exports and logs
+*.sql.bak
+*.log
+*.dump
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
